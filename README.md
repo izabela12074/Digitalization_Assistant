@@ -15,16 +15,16 @@ Aplikacja webowa zbudowana w Streamlit, która analizuje dane produkcyjne przy u
 ## 📸 Screenshots
 
 ### Wczytanie danych i analiza
-![Upload i analiza](screenshots/01_upload.png)
+![Upload i analiza](Screenshots/01_upload.png)
 
 ### Podsumowanie i ocena ryzyka
-![Podsumowanie](screenshots/02_summary.png)
+![Podsumowanie](Screenshots/02_summary.png)
 
 ### Zidentyfikowane problemy i rekomendacje
-![Problemy i rekomendacje](screenshots/03_problems.png)
+![Problemy i rekomendacje](Screenshots/03_problems.png)
 
 ### KPI do monitorowania w Power BI
-![KPI](screenshots/04_kpi.png)
+![KPI](Screenshots/04_kpi.png)
 
 ## 🛠️ Technologie
 
