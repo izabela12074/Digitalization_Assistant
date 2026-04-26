@@ -12,7 +12,7 @@ Aplikacja webowa zbudowana w Streamlit, która analizuje dane produkcyjne przy u
 - **KPI do monitorowania** z celami i częstotliwością pomiaru
 - **Ocenę ryzyka** operacyjnego (Wysokie/Średnie/Niskie)
 
-## 📸 Screenshots
+## 📸 Zrzuty ekranu
 
 ### Wczytanie danych i analiza
 ![Upload i analiza](Screenshots/01_upload.png)
